@@ -1,10 +1,10 @@
 # CSE-0402-Summer-2021
 This is a E-Commerce Lab Repository 
 
-Name:
+Name:Mazharul haque
 
-ID:
+ID:UG02-47-18-028
 
-Email:
+Email:mazharulsub47@gmail.com
 
-Batch: 
+Batch: 47
